@@ -1,5 +1,8 @@
+
 # Calabash
 Calabash game using swift language
+
+注意： 需要把工程文件夹 Calabash_ 改成 Calabash 再运行
 
 ![Image text](https://github.com/meibanfa/Calabash/blob/master/image/img_0926.png)
 ## 一、	游戏运行逻辑
