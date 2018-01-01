@@ -1,6 +1,6 @@
 # Calabash
 Calabash game using swift language
-![Image text](https://github.com/meibanfa/Calabash/blob/master/image/IMG_0926.png)
+![Image text](https://github.com/meibanfa/Calabash/blob/master/image/img_0926.png)
 ## 一、	游戏运行逻辑
 葫芦娃通过控制杆来操控，可方便地在地图上移动，但是不能移出地图。
 ![Image text](https://github.com/meibanfa/Calabash/blob/master/image/IMG_0927.PNG)
@@ -16,7 +16,7 @@ Calabash game using swift language
 ![Image text](https://github.com/meibanfa/Calabash/blob/master/image/IMG_0934.PNG)
 
 ## 二、 类的管理
-?[Image text](https://github.com/meibanfa/Calabash/blob/master/image/relation.png)
+![Image text](https://github.com/meibanfa/Calabash/blob/master/image/relation.png)
 GameViewcontroller作为视图管理器，其中包含GameScene对象，GameScene对象是本游戏显示最重要的一个类，其中聚集了葫芦娃，小怪，控制杆，技能按钮等各个模型。
 其中，位于GameScene中的sceneDidLoad函数会调用各个对象的构造函数，做一些基本的加载与初始化工作。
 各个对象通过constants函数取到他们对应的图像，并加载到游戏场景中。
