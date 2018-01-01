@@ -1,6 +1,6 @@
 # Calabash
 Calabash game using swift language
-![Image text](https://github.com/meibanfa/Calabash/blob/master/image/IMG_0926.PNG)
+![Image text](https://github.com/meibanfa/Calabash/blob/master/image/IMG_0926.png)
 ## 一、	游戏运行逻辑
 葫芦娃通过控制杆来操控，可方便地在地图上移动，但是不能移出地图。
 ![Image text](https://github.com/meibanfa/Calabash/blob/master/image/IMG_0927.PNG)
